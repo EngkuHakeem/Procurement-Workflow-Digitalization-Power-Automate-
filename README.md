@@ -76,9 +76,6 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 
 ## 🖼 Screenshots
 
-### Procurement Request Form
-![Form](screenshots/forms.png)
-
 ### SharePoint Procurement List
 ![SharePoint List](screenshots/sharepoint-list.png)
 

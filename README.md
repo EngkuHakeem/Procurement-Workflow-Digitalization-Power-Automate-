@@ -36,7 +36,7 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 
 ## 🏗 System Architecture
 
---- ![System Architecture](screenshots/SystemFlow.png)
+ ![System Architecture](screenshots/SystemFlow.png)
 
 
 ## 🛠 Tools & Technologies
@@ -78,10 +78,10 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 ## 🖼 Screenshots
 
 ### SharePoint Procurement List
-![SharePoint List](screenshots/sharepoint-list.png)
+![SharePoint List](screenshots/Sharepoint.png)
 
 ### Power Automate Workflow
-![Power Automate](screenshots/power-automate-flow.png)
+![Power Automate](screenshots/PowerAutomate.png)
 
 
 

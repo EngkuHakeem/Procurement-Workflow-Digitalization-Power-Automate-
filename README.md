@@ -36,7 +36,8 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 
 ## 🏗 System Architecture
 
----
+--- ![System Architecture](screenshots/SystemFlow.png)
+
 
 ## 🛠 Tools & Technologies
 - 📝 Microsoft Forms  
@@ -82,10 +83,7 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 ### Power Automate Workflow
 ![Power Automate](screenshots/power-automate-flow.png)
 
-### Automated Email Notification
-![Email Notification](screenshots/email-notification.png)
 
----
 
 
 ## 🔮 Future Improvements

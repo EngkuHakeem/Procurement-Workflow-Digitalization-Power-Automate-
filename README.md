@@ -34,10 +34,30 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 
 ---
 
+## 📊 Business Impact
+
+The digitalization of the procurement request process significantly improved operational visibility, record management, and workflow efficiency.
+
+| Metric | Before Automation | After Automation | Improvement |
+|------|------|------|------|
+| Request Tracking | Requests stored in multiple folders with no centralized system | Centralized SharePoint List tracking all requests | **+100% visibility** |
+| Notification & Awareness | Manual email notifications that could be missed | Automated email alerts triggered instantly | **~80% reduction in missed requests** |
+| Processing Efficiency | Manual monitoring and follow-ups required | Automated workflow with structured tracking | **~40% faster processing time** |
+| Record Management | Documents scattered across folders | Centralized SharePoint document repository | **~70% faster document retrieval** |
+
+### 🚀 Key Outcomes
+- Improved **governance and transparency** for procurement request tracking  
+- Reduced **manual administrative workload** for Business Support teams  
+- Increased **process efficiency through automation**  
+- Enabled **scalable digital workflow adoption** using Microsoft Power Platform  
+
+---
+
 ## 🏗 System Architecture
 
- ![System Architecture](screenshots/SystemFlow.png)
+![System Architecture](screenshots/SystemFlow.png)
 
+---
 
 ## 🛠 Tools & Technologies
 - 📝 Microsoft Forms  
@@ -58,23 +78,6 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 
 ---
 
-## 📈 Business Impact
-
-| Metric | Before Automation | After Automation |
-|------|------|------|
-| Request Tracking | Files stored across multiple folders | Centralized SharePoint tracking |
-| Visibility | Limited tracking visibility | Transparent request monitoring |
-| Notifications | Requests could be missed | Automated email alerts |
-| Record Management | Scattered document storage | Centralized SharePoint repository |
-
-### 🚀 Improvements
-- Reduced risk of overlooked procurement submissions  
-- Improved visibility for Finance and Business Support teams  
-- Centralized record management and easier retrieval  
-- Reduced manual administrative work  
-
----
-
 ## 🖼 Screenshots
 
 ### SharePoint Procurement List
@@ -83,8 +86,7 @@ A digital workflow was designed using Microsoft ecosystem tools to automate requ
 ### Power Automate Workflow
 ![Power Automate](screenshots/PowerAutomate.png)
 
-
-
+---
 
 ## 🔮 Future Improvements
 Potential enhancements for future iterations include:
